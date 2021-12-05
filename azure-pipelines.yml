@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: MyLinuxAgent
+  name: MyPool
 
 variables:
   buildConfiguration: 'Release'
